@@ -1,0 +1,14 @@
+canvas{
+    border:5px solid white;
+    border-radius:20px;
+    animation-name:brilho;
+    animation-iteration-count:infinite;
+    animation-duration:4s;
+}
+body{
+    background-color: aqua;
+}
+#feed{
+    display:flex;
+    justify-content:space-between;
+}
